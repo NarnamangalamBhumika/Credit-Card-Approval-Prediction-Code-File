@@ -103,3 +103,11 @@ Credit-Card-Approval-Prediction/
     ├── prediction_result.png
     └── model_accuracy.png
 ```
+---
+
+## Dataset
+
+The dataset used for this project exceeds GitHub's web upload size limit (25 MB), so it is not included in this repository.
+
+The dataset can be downloaded from the original source:
+https://archive.ics.uci.edu/dataset/27/credit+approval
