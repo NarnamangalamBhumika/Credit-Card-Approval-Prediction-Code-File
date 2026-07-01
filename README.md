@@ -109,5 +109,7 @@ Credit-Card-Approval-Prediction/
 
 The dataset used for this project exceeds GitHub's web upload size limit (25 MB), so it is not included in this repository.
 
-The dataset can be downloaded from the original source:
-https://archive.ics.uci.edu/dataset/27/credit+approval
+The dataset can be downloaded from Kaggle:
+
+Credit Card Approval Prediction:
+https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
